@@ -1,0 +1,11 @@
+# starting  MYSQL
+-> mysql -u root -p # uses password
+
+#See databases
+-> SHOW databases; # please remember semicolon
+
+# Creating Database
+-> CREATE DATABASE <database name>;
+
+#SEE tables
+-> SHOW tables;
